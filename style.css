@@ -1,0 +1,20 @@
+.skills-table td {
+    border: 1px solid #25265e;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+}
+
+form {
+    border: 2px solid slateblue;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
